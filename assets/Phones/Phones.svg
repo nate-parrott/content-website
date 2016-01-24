@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="305 -179 897 754"
+	 style="enable-background:new 305 -179 897 754;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#Mute_2_);}
+	.st1{fill:url(#Volume-Down_2_);}
+	.st2{fill:url(#Volume-Up_2_);}
+	.st3{fill:url(#Power_2_);}
+	.st4{fill:url(#Frame_2_);}
+	.st5{fill:#E8E8E8;}
+	.st6{fill:#D2D2D2;}
+	.st7{fill:#F5F5F5;}
+	.st8{fill:#FFFFFF;}
+	.st9{fill:url(#Camera-surround_2_);}
+	.st10{fill:#222222;}
+	.st11{fill:url(#Speaker_3_);}
+	.st12{fill:url(#Sensor-surround_2_);}
+	.st13{fill:url(#Home-button_2_);stroke:url(#Home-button_3_);stroke-width:2;}
+	.st14{font-family:'AvenirNext-Bold';}
+	.st15{font-size:15.0559px;}
+	.st16{font-family:'AvenirNext-Regular';}
+	.st17{fill:#FFFFFF;stroke:#000000;stroke-width:7;}
+	.st18{fill:url(#Mute_3_);}
+	.st19{fill:url(#Volume-Down_3_);}
+	.st20{fill:url(#Volume-Up_3_);}
+	.st21{fill:url(#Power_3_);}
+	.st22{fill:url(#Frame_3_);}
+	.st23{fill:url(#Camera-surround_3_);}
+	.st24{fill:url(#Speaker-surround_1_);}
+	.st25{fill:url(#Sensor-surround_3_);}
+	.st26{fill:url(#Home-button_4_);stroke:url(#Home-button_5_);stroke-width:2;}
+	.st27{fill:#0082FF;}
+</style>
+<style type='text/css'>
+	@keyframes spin {
+		0% {
+			transform: rotate(0deg);
+		}
+		25% {
+			transform: rotate(90deg);
+		}
+		50% {
+			transform: rotate(180deg);
+		}
+		75% {
+			transform: rotate(270deg);
+		}
+		100% {
+			transform: rotate(360deg);
+		}
+	}
+	.spin {
+		/* 'this is content' */
+		animation: spin 2s infinite;
+		animation-timing-function: linear;
+	}
+
+	.shake {
+		animation-duration: 100ms;
+		animation-iteration-count: infinite;
+		animation-name: shake;
+		animation-timing-function: ease-in-out;
+	}
+
+	.shake, .spin {
+		transform-origin: center;
+	}
+
+	@keyframes shake {
+	    2% {
+	        transform: translate(1.5px, 1.5px) rotate(-0.5deg)
+	    }
+	    4% {
+	        transform: translate(-1.5px, 1.5px) rotate(1.5deg)
+	    }
+	    6% {
+	        transform: translate(1.5px, 2.5px) rotate(-0.5deg)
+	    }
+	    8% {
+	        transform: translate(1.5px, -0.5px) rotate(0.5deg)
+	    }
+	    10% {
+	        transform: translate(2.5px, 0.5px) rotate(0.5deg)
+	    }
+	    12% {
+	        transform: translate(-1.5px, -0.5px) rotate(1.5deg)
+	    }
+	    14% {
+	        transform: translate(1.5px, 1.5px) rotate(1.5deg)
+	    }
+	    16% {
+	        transform: translate(0.5px, 0.5px) rotate(-0.5deg)
+	    }
+	    18% {
+	        transform: translate(-1.5px, -1.5px) rotate(1.5deg)
+	    }
+	    20% {
+	        transform: translate(1.5px, 2.5px) rotate(1.5deg)
+	    }
+	    22% {
+	        transform: translate(0.5px, 2.5px) rotate(1.5deg)
+	    }
+	    24% {
+	        transform: translate(2.5px, 1.5px) rotate(-0.5deg)
+	    }
+	    26% {
+	        transform: translate(0.5px, 1.5px) rotate(1.5deg)
+	    }
+	    28% {
+	        transform: translate(-0.5px, -1.5px) rotate(-0.5deg)
+	    }
+	    30% {
+	        transform: translate(-0.5px, 1.5px) rotate(-0.5deg)
+	    }
+	    32% {
+	        transform: translate(1.5px, 1.5px) rotate(-0.5deg)
+	    }
+	    34% {
+	        transform: translate(-1.5px, 0.5px) rotate(1.5deg)
+	    }
+	    36% {
+	        transform: translate(2.5px, 0.5px) rotate(-0.5deg)
+	    }
+	    38% {
+	        transform: translate(-0.5px, -0.5px) rotate(0.5deg)
+	    }
+	    40% {
+	        transform: translate(0.5px, -1.5px) rotate(-0.5deg)
+	    }
+	    42% {
+	        transform: translate(0.5px, 1.5px) rotate(1.5deg)
+	    }
+	    44% {
+	        transform: translate(2.5px, 0.5px) rotate(-0.5deg)
+	    }
+	    46% {
+	        transform: translate(2.5px, 0.5px) rotate(1.5deg)
+	    }
+	    48% {
+	        transform: translate(1.5px, 1.5px) rotate(-0.5deg)
+	    }
+	    50% {
+	        transform: translate(-0.5px, -0.5px) rotate(1.5deg)
+	    }
+	    52% {
+	        transform: translate(2.5px, -1.5px) rotate(0.5deg)
+	    }
+	    54% {
+	        transform: translate(0.5px, 2.5px) rotate(1.5deg)
+	    }
+	    56% {
+	        transform: translate(0.5px, 2.5px) rotate(-0.5deg)
+	    }
+	    58% {
+	        transform: translate(1.5px, 0.5px) rotate(-0.5deg)
+	    }
+	    60% {
+	        transform: translate(1.5px, 1.5px) rotate(-0.5deg)
+	    }
+	    62% {
+	        transform: translate(2.5px, -1.5px) rotate(1.5deg)
+	    }
+	    64% {
+	        transform: translate(2.5px, 1.5px) rotate(0.5deg)
+	    }
+	    66% {
+	        transform: translate(1.5px, 2.5px) rotate(1.5deg)
+	    }
+	    68% {
+	        transform: translate(-0.5px, 0.5px) rotate(0.5deg)
+	    }
+	    70% {
+	        transform: translate(-1.5px, 2.5px) rotate(1.5deg)
+	    }
+	    72% {
+	        transform: translate(1.5px, 2.5px) rotate(1.5deg)
+	    }
+	    74% {
+	        transform: translate(-0.5px, 2.5px) rotate(0.5deg)
+	    }
+	    76% {
+	        transform: translate(1.5px, 2.5px) rotate(0.5deg)
+	    }
+	    78% {
+	        transform: translate(2.5px, 0.5px) rotate(0.5deg)
+	    }
+	    80% {
+	        transform: translate(-1.5px, -0.5px) rotate(0.5deg)
+	    }
+	    82% {
+	        transform: translate(-0.5px, -1.5px) rotate(0.5deg)
+	    }
+	    84% {
+	        transform: translate(1.5px, 1.5px) rotate(-0.5deg)
+	    }
+	    86% {
+	        transform: translate(-0.5px, 2.5px) rotate(0.5deg)
+	    }
+	    88% {
+	        transform: translate(-1.5px, 2.5px) rotate(0.5deg)
+	    }
+	    90% {
+	        transform: translate(-0.5px, -0.5px) rotate(-0.5deg)
+	    }
+	    92% {
+	        transform: translate(2.5px, 1.5px) rotate(-0.5deg)
+	    }
+	    94% {
+	        transform: translate(1.5px, 2.5px) rotate(0.5deg)
+	    }
+	    96% {
+	        transform: translate(0.5px, 2.5px) rotate(-0.5deg)
+	    }
+	    98% {
+	        transform: translate(2.5px, 0.5px) rotate(1.5deg)
+	    }
+	    0%,
+	    100% {
+	        transform: translate(0, 0) rotate(0)
+	    }
+	}
+	
+	.blink {
+	  animation: blink 0.5s steps(5, start) infinite;
+	}
+	@keyframes blink {
+	  to {
+	    visibility: hidden;
+	  }
+	}
+	@-webkit-keyframes blink {
+	  to {
+	    visibility: hidden;
+	  }
+	}
+	
+</style>
+<title>Page-5</title>
+<desc>Created with Sketch.</desc>
+<g id="Page-1" sketch:type="MSPage">
+	<g id="Page-5" transform="translate(75.000000, 0.000000)" sketch:type="MSLayerGroup">
+		<g id="iPhone-6_1_" transform="translate(0.000000, 57.000000)">
+			
+				<linearGradient id="Mute_2_" gradientUnits="userSpaceOnUse" x1="492.0737" y1="345.1994" x2="492.0737" y2="344.1994" gradientTransform="matrix(7.0234 0 0 -28.874 -3146.8342 9874.8945)">
+				<stop  offset="0" style="stop-color:#EEEEEE"/>
+				<stop  offset="1" style="stop-color:#DDDDDD"/>
+			</linearGradient>
+			<path id="Mute" sketch:type="MSShapeGroup" class="st0" d="M308.7-92.4h1c1.7,0,3,1.3,3,3v22.9c0,1.7-1.3,3-3,3h-1
+				c-1.7,0-3-1.3-3-3v-22.9C305.7-91,307-92.4,308.7-92.4z"/>
+			
+				<linearGradient id="Volume-Down_2_" gradientUnits="userSpaceOnUse" x1="492.0737" y1="342.584" x2="492.0737" y2="341.584" gradientTransform="matrix(7.0234 0 0 -49.9441 -3146.054 17140.207)">
+				<stop  offset="0" style="stop-color:#EEEEEE"/>
+				<stop  offset="1" style="stop-color:#DDDDDD"/>
+			</linearGradient>
+			<path id="Volume-Down" sketch:type="MSShapeGroup" class="st1" d="M309.5,30.1h1c1.7,0,3,1.3,3,3v43.9c0,1.7-1.3,3-3,3h-1
+				c-1.7,0-3-1.3-3-3V33.1C306.5,31.5,307.8,30.1,309.5,30.1z"/>
+			
+				<linearGradient id="Volume-Up_2_" gradientUnits="userSpaceOnUse" x1="492.0737" y1="342.584" x2="492.0737" y2="341.584" gradientTransform="matrix(7.0234 0 0 -49.9441 -3146.054 17078.5566)">
+				<stop  offset="0" style="stop-color:#EEEEEE"/>
+				<stop  offset="1" style="stop-color:#DDDDDD"/>
+			</linearGradient>
+			<path id="Volume-Up" sketch:type="MSShapeGroup" class="st2" d="M309.5-31.5h1c1.7,0,3,1.3,3,3v43.9c0,1.7-1.3,3-3,3h-1
+				c-1.7,0-3-1.3-3-3v-43.9C306.5-30.2,307.8-31.5,309.5-31.5z"/>
+			
+				<linearGradient id="Power_2_" gradientUnits="userSpaceOnUse" x1="492.0737" y1="342.584" x2="492.0737" y2="341.584" gradientTransform="matrix(7.0234 0 0 -49.9441 -2815.1741 17077.7754)">
+				<stop  offset="0" style="stop-color:#EEEEEE"/>
+				<stop  offset="1" style="stop-color:#DDDDDD"/>
+			</linearGradient>
+			<path id="Power" sketch:type="MSShapeGroup" class="st3" d="M640.3-32.3h1c1.7,0,3,1.3,3,3v43.9c0,1.7-1.3,3-3,3h-1
+				c-1.7,0-3-1.3-3-3v-43.9C637.3-30.9,638.7-32.3,640.3-32.3z"/>
+			
+				<linearGradient id="Frame_2_" gradientUnits="userSpaceOnUse" x1="534.5847" y1="339.2598" x2="534.5847" y2="338.2598" gradientTransform="matrix(333.2211 0 0 -689.0731 -177659.4844 233595.7812)">
+				<stop  offset="0" style="stop-color:#FFFFFF"/>
+				<stop  offset="0.6598" style="stop-color:#EEEEEE"/>
+				<stop  offset="1" style="stop-color:#DDDDDD"/>
+			</linearGradient>
+			<path id="Frame" sketch:type="MSShapeGroup" class="st4" d="M308.8,81.7c0-1.1,1.6-2.1,1.6-3.2V-29.9c0-1.1-1.6-2.2-1.6-3.3V-115
+				c0-35.3,28.7-64,64-64H578c35.3,0,64,28.7,64,64v82.1c0,1-1.6,2-1.6,3v45.3c0,1,1.6,2,1.6,3v427.6c0,35.3-28.7,64-64,64H372.8
+				c-35.3,0-64-28.7-64-64V81.7L308.8,81.7L308.8,81.7z"/>
+			<rect id="Band-insulator-1" x="308.8" y="-125.2" sketch:type="MSShapeGroup" class="st5" width="17.9" height="12.5">
+			</rect>
+			<rect id="Band-insulator-2" x="624.1" y="-125.2" sketch:type="MSShapeGroup" class="st5" width="17.9" height="12.5">
+			</rect>
+			<rect id="Band-insulator-3" x="308.8" y="442.2" sketch:type="MSShapeGroup" class="st6" width="17.9" height="12.5">
+			</rect>
+			<rect id="Band-insulator-4" x="624.1" y="442.2" sketch:type="MSShapeGroup" class="st6" width="17.9" height="12.5">
+			</rect>
+			<path id="Face" sketch:type="MSShapeGroup" class="st7" d="M373.5-174.3h203.9c33.1,0,60,26.9,60,60v559.7c0,33.1-26.9,60-60,60
+				H373.5c-33.1,0-60-26.9-60-60v-559.7C313.5-147.5,340.3-174.3,373.5-174.3z"/>
+			<path id="Screen-surround" sketch:type="MSShapeGroup" d="M330-97.1h290.9c2.2,0,4,1.8,4,4v518.8c0,2.2-1.8,4-4,4H330
+				c-2.2,0-4-1.8-4-4V-93.1C326-95.3,327.8-97.1,330-97.1z"/>
+			<rect id="Screen---375-x-667" x="329.1" y="-93.9" sketch:type="MSShapeGroup" class="st8" width="292.6" height="520.5">
+			</rect>
+			
+				<linearGradient id="Camera-surround_2_" gradientUnits="userSpaceOnUse" x1="513.7869" y1="351.7431" x2="513.7869" y2="350.7431" gradientTransform="matrix(14.0468 0 0 -14.0468 -6793.5376 4797.7598)">
+				<stop  offset="0" style="stop-color:#D1D1D1"/>
+				<stop  offset="1" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<circle id="Camera-surround" sketch:type="MSShapeGroup" class="st9" cx="423.5" cy="-136.1" r="7">
+			</circle>
+			<circle id="Camera" sketch:type="MSShapeGroup" class="st10" cx="423.5" cy="-136.1" r="3.9">
+			</circle>
+			
+				<linearGradient id="Speaker_3_" gradientUnits="userSpaceOnUse" x1="530.2184" y1="358.1147" x2="530.2184" y2="357.1147" gradientTransform="matrix(57.7479 0 0 -9.3645 -30143.207 3212.8135)">
+				<stop  offset="0" style="stop-color:#CECECE"/>
+				<stop  offset="1" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<path id="Speaker" sketch:type="MSShapeGroup" class="st11" d="M452.9-140.8h45.7c3.3,0,6,2.1,6,4.7l0,0c0,2.6-2.7,4.7-6,4.7
+				h-45.7c-3.3,0-6-2.1-6-4.7l0,0C446.9-138.7,449.6-140.8,452.9-140.8z"/>
+			<path id="Speaker_1_" sketch:type="MSShapeGroup" class="st10" d="M452.3-138.4h47.1c1.7,0,3,1,3,2.3l0,0c0,1.3-1.3,2.3-3,2.3
+				h-47.1c-1.7,0-3-1-3-2.3l0,0C449.3-137.4,450.6-138.4,452.3-138.4z"/>
+			
+				<linearGradient id="Sensor-surround_2_" gradientUnits="userSpaceOnUse" x1="502.9303" y1="358.1147" x2="502.9303" y2="357.1147" gradientTransform="matrix(9.3645 0 0 -9.3645 -4233.8999 3190.1824)">
+				<stop  offset="0" style="stop-color:#CECECE"/>
+				<stop  offset="1" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<path id="Sensor-surround" sketch:type="MSShapeGroup" class="st12" d="M475.8-163.4L475.8-163.4c2.6,0,4.7,2.1,4.7,4.7l0,0
+				c0,2.6-2.1,4.7-4.7,4.7l0,0c-2.6,0-4.7-2.1-4.7-4.7l0,0C471.1-161.3,473.2-163.4,475.8-163.4z"/>
+			<circle id="Sensor" sketch:type="MSShapeGroup" class="st10" cx="475.8" cy="-158.7" r="3.1">
+			</circle>
+			
+				<linearGradient id="Home-button_2_" gradientUnits="userSpaceOnUse" x1="529.7524" y1="342.3732" x2="529.7524" y2="341.3732" gradientTransform="matrix(53.0657 0 0 -53.0657 -27635.0723 18607.3164)">
+				<stop  offset="0" style="stop-color:#E2E2E2"/>
+				<stop  offset="0.498" style="stop-color:#F3F3F3"/>
+				<stop  offset="1" style="stop-color:#F9F9F9"/>
+			</linearGradient>
+			
+				<linearGradient id="Home-button_3_" gradientUnits="userSpaceOnUse" x1="529.7524" y1="342.3732" x2="529.7524" y2="341.3732" gradientTransform="matrix(53.0657 0 0 -53.0657 -27635.0723 18607.3164)">
+				<stop  offset="0" style="stop-color:#DCDCDC"/>
+				<stop  offset="1" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<circle id="Home-button" sketch:type="MSShapeGroup" class="st13" cx="476.6" cy="465.6" r="26.5">
+			</circle>
+			
+			<g id="Group" transform="translate(89.000000, 182.000000)" sketch:type="MSTextLayer">
+				<g id="iPhone-6" transform="translate(21.000000, 0.000000)">
+					<text transform="matrix(1 0 0 1 305.1115 -163.6581)" class="st14 st15">iPhone 6</text>
+				</g>
+				<g id="_x33_75-x-667px" transform="translate(0.000000, 38.000000)">
+					<text transform="matrix(1 0 0 1 305.9824 -163.6581)" class="st16 st15">375 x 667px</text>
+				</g>
+			</g>
+		</g>
+		
+			<g id="Simulator-Screen-Shot-Jan-23_x2C_-2016_x2C_-10.16.50-PM-_x2B_-Rectangle-1-_x2B_-this-is-content" transform="translate(23.406001, 142.358354)">
+			
+				<image style="overflow:visible;enable-background:new    ;" width="750" height="1334" id="Simulator-Screen-Shot-Jan-23_x2C_-2016_x2C_-10.16.50-PM" xlink:href="90E82BB3C7709FF7.jpg"  sketch:type="MSBitmapLayer" transform="matrix(0.391 0 0 0.391 305 -179)">
+			</image>
+			<rect id="Rectangle-1" x="376.6" y="6.7" sketch:type="MSShapeGroup" class="st17 spin" width="150.2" height="150.2">
+			</rect>
+			<path id="this-is-content" sketch:type="MSShapeGroup" d="M410,56.6h2.5l0.1-3.5l4.8-0.6l0.2,3.9l3.3,0l0.7,4.4h-4l0,4.8
+				c0,0.3,0,0.6,0.1,0.9c0,0.3,0.1,0.6,0.3,0.8c0.1,0.3,0.3,0.5,0.5,0.6s0.5,0.2,0.8,0.2c0.5,0,0.8,0,1.1-0.1
+				c0.3-0.1,0.6-0.2,0.8-0.3c0.2-0.1,0.5-0.3,0.7-0.5c0.2-0.2,0.4-0.4,0.6-0.7l1.3,4.4c-0.4,0.4-0.7,0.8-1.2,1s-0.9,0.5-1.3,0.6
+				c-0.5,0.1-0.9,0.2-1.5,0.3c-0.5,0.1-1,0.1-1.6,0.1c-0.7,0-1.4,0-2.1-0.2c-0.7-0.1-1.3-0.4-1.9-0.8c-0.6-0.4-1-0.9-1.4-1.5
+				c-0.4-0.6-0.6-1.4-0.7-2.4c-0.1-1.3-0.1-2.5-0.1-3.7c0-1.2,0-2.5-0.1-3.7l-1.9-0.1L410,56.6L410,56.6L410,56.6z M436,65.7
+				c0-0.5,0-0.9-0.1-1.2s-0.2-0.7-0.4-0.9s-0.4-0.5-0.8-0.6c-0.3-0.1-0.8-0.2-1.3-0.2c-0.6,0-1.1,0.2-1.4,0.5
+				c-0.4,0.3-0.6,0.7-0.8,1.2c-0.2,0.5-0.3,1-0.4,1.6s-0.1,1.1-0.1,1.6l-0.1,5.3l-5.8-0.1V48.7h5.4l0.4,11.3
+				c0.2-0.5,0.4-0.9,0.8-1.3c0.4-0.4,0.8-0.7,1.2-1s1-0.5,1.5-0.6c0.5-0.1,1-0.2,1.5-0.2c0.9,0,1.7,0.2,2.4,0.7
+				c0.7,0.4,1.3,1,1.8,1.7c0.5,0.7,0.9,1.4,1.1,2.3c0.3,0.8,0.4,1.6,0.4,2.4v9h-5.2L436,65.7L436,65.7L436,65.7z M442.8,57.1h5.9
+				v15.7h-5.4L442.8,57.1L442.8,57.1L442.8,57.1z M442.5,52.7c0-0.3,0.1-0.7,0.2-1.1c0.1-0.4,0.3-0.8,0.5-1.1s0.6-0.6,1-0.8
+				c0.4-0.2,0.9-0.3,1.5-0.3c2.3,0,3.4,1.3,3.4,3.8c0,0.2-0.1,0.5-0.2,0.8s-0.3,0.7-0.5,1c-0.2,0.3-0.5,0.6-0.9,0.9
+				c-0.4,0.3-0.8,0.4-1.4,0.4c-0.7,0-1.3-0.1-1.8-0.3c-0.5-0.2-0.8-0.5-1.1-0.9c-0.3-0.4-0.4-0.7-0.6-1.1
+				C442.6,53.4,442.5,53,442.5,52.7L442.5,52.7L442.5,52.7L442.5,52.7z M460.6,62.4c-0.5-0.3-1-0.6-1.4-0.7c-0.4-0.2-0.7-0.3-1-0.4
+				s-0.6-0.2-0.8-0.2c-0.3,0-0.5-0.1-0.8-0.1c-0.2,0-0.4,0-0.7,0c-0.3,0-0.5,0-0.7,0.1c-0.2,0.1-0.4,0.2-0.6,0.3
+				c-0.2,0.1-0.2,0.3-0.2,0.5c0,0.2,0.1,0.4,0.2,0.5c0.1,0.1,0.3,0.2,0.6,0.3c0.2,0.1,0.5,0.1,0.8,0.1c0.3,0,0.5,0,0.8,0
+				c1.8,0,3.3,0.4,4.3,1.3s1.6,2.1,1.6,3.6c0,0.8-0.2,1.6-0.6,2.3c-0.4,0.7-0.9,1.3-1.6,1.8c-0.6,0.5-1.4,0.9-2.2,1.2
+				c-0.8,0.3-1.6,0.4-2.4,0.4c-1.2,0-2.5-0.2-3.7-0.7c-1.2-0.4-2.2-1.1-3-2l2.9-3.4c0.4,0.4,0.9,0.7,1.5,1c0.6,0.2,1.2,0.4,1.9,0.4
+				c0.2,0,0.4,0,0.7,0s0.5-0.1,0.7-0.1s0.4-0.2,0.5-0.3c0.1-0.1,0.2-0.3,0.2-0.5c0-0.4-0.2-0.7-0.6-0.7c-0.4-0.1-1-0.1-1.7-0.1
+				c-0.6,0-1.3-0.1-1.9-0.4c-0.7-0.2-1.3-0.6-1.8-1c-0.5-0.4-1-0.9-1.3-1.5s-0.5-1.3-0.5-2c0-0.8,0.2-1.6,0.6-2.2
+				c0.4-0.7,0.9-1.2,1.5-1.7c0.6-0.5,1.3-0.8,2.1-1.1c0.8-0.3,1.6-0.4,2.3-0.3c1.2,0,2.4,0.3,3.4,0.8c1.1,0.5,2,1.1,2.8,1.8
+				L460.6,62.4L460.6,62.4L460.6,62.4z M472.6,57.1h5.9v15.7h-5.4L472.6,57.1L472.6,57.1L472.6,57.1z M472.4,52.7
+				c0-0.3,0.1-0.7,0.2-1.1s0.3-0.8,0.5-1.1c0.3-0.3,0.6-0.6,1-0.8s0.9-0.3,1.5-0.3c2.3,0,3.4,1.3,3.4,3.8c0,0.2-0.1,0.5-0.2,0.8
+				s-0.3,0.7-0.5,1s-0.5,0.6-0.9,0.9c-0.4,0.3-0.8,0.4-1.4,0.4c-0.7,0-1.3-0.1-1.8-0.3c-0.5-0.2-0.8-0.5-1.1-0.9
+				c-0.3-0.4-0.4-0.7-0.6-1.1C472.5,53.4,472.4,53,472.4,52.7L472.4,52.7L472.4,52.7L472.4,52.7z M490.5,62.4
+				c-0.5-0.3-1-0.6-1.4-0.7c-0.4-0.2-0.7-0.3-1-0.4s-0.6-0.2-0.8-0.2c-0.3,0-0.5-0.1-0.8-0.1c-0.2,0-0.4,0-0.7,0
+				c-0.3,0-0.5,0-0.7,0.1c-0.2,0.1-0.4,0.2-0.6,0.3c-0.2,0.1-0.2,0.3-0.2,0.5c0,0.2,0.1,0.4,0.2,0.5s0.3,0.2,0.6,0.3
+				c0.2,0.1,0.5,0.1,0.8,0.1c0.3,0,0.5,0,0.8,0c1.8,0,3.3,0.4,4.3,1.3s1.6,2.1,1.6,3.6c0,0.8-0.2,1.6-0.6,2.3
+				c-0.4,0.7-0.9,1.3-1.6,1.8c-0.6,0.5-1.4,0.9-2.2,1.2c-0.8,0.3-1.6,0.4-2.4,0.4c-1.2,0-2.5-0.2-3.7-0.7c-1.2-0.4-2.2-1.1-3-2
+				l2.9-3.4c0.4,0.4,0.9,0.7,1.5,1c0.6,0.2,1.2,0.4,1.9,0.4c0.2,0,0.4,0,0.7,0c0.3,0,0.5-0.1,0.7-0.1s0.4-0.2,0.5-0.3
+				c0.1-0.1,0.2-0.3,0.2-0.5c0-0.4-0.2-0.7-0.6-0.7c-0.4-0.1-1-0.1-1.7-0.1c-0.6,0-1.3-0.1-1.9-0.4c-0.7-0.2-1.3-0.6-1.8-1
+				c-0.5-0.4-1-0.9-1.3-1.5s-0.5-1.3-0.5-2c0-0.8,0.2-1.6,0.6-2.2c0.4-0.7,0.9-1.2,1.5-1.7c0.6-0.5,1.3-0.8,2.1-1.1
+				c0.8-0.3,1.6-0.4,2.3-0.3c1.2,0,2.4,0.3,3.4,0.8c1.1,0.5,2,1.1,2.8,1.8L490.5,62.4L490.5,62.4L490.5,62.4z M410,106.6
+				c0,0.9-0.2,1.8-0.7,2.6c-0.4,0.8-1,1.5-1.8,2c-0.7,0.6-1.6,1-2.5,1.4c-0.9,0.3-1.8,0.5-2.8,0.5c-1.2,0-2.3-0.2-3.4-0.7
+				c-1.1-0.4-2-1-2.8-1.8c-0.8-0.8-1.4-1.6-1.9-2.7c-0.5-1-0.7-2.1-0.7-3.2c0-1.1,0.2-2.1,0.6-3.1c0.4-1,1-1.9,1.7-2.6
+				s1.6-1.4,2.6-1.8c1-0.4,2.1-0.7,3.3-0.7c1,0,2,0.2,3,0.5c1,0.3,1.9,0.8,2.7,1.3c0.8,0.6,1.4,1.3,1.9,2.1c0.5,0.8,0.7,1.7,0.7,2.8
+				l-5.2,0.5c-0.2-0.5-0.4-1-0.8-1.3s-0.8-0.6-1.3-0.7c-0.5-0.1-0.9-0.2-1.4-0.1c-0.5,0.1-0.9,0.2-1.3,0.5c-0.4,0.3-0.7,0.6-1,1.1
+				s-0.4,1-0.4,1.7c0,1,0.2,1.7,0.8,2.3c0.5,0.6,1.2,0.9,1.9,1s1.4,0.1,2.1-0.3c0.7-0.3,1.2-0.8,1.5-1.5L410,106.6L410,106.6
+				L410,106.6z M428.7,104.5c0,1.1-0.2,2.2-0.7,3.3s-1.1,1.9-1.9,2.7s-1.7,1.4-2.8,1.8c-1,0.5-2.1,0.7-3.3,0.7
+				c-1.1,0-2.2-0.2-3.2-0.6s-2-1-2.8-1.8c-0.8-0.7-1.5-1.6-2-2.6c-0.5-1-0.8-2.1-0.8-3.2c0-1.3,0.2-2.4,0.8-3.5
+				c0.5-1,1.3-1.9,2.2-2.6c0.9-0.7,1.9-1.3,3.1-1.6c1.1-0.4,2.3-0.5,3.4-0.5c1,0,2,0.2,3,0.7c1,0.4,1.9,1,2.7,1.7
+				c0.8,0.7,1.4,1.6,1.9,2.5C428.4,102.4,428.7,103.4,428.7,104.5L428.7,104.5L428.7,104.5L428.7,104.5z M420.1,107.8
+				c0.9,0,1.6-0.3,2.2-0.9c0.5-0.6,0.8-1.3,0.8-2.1c0-0.8-0.3-1.4-0.8-2c-0.5-0.6-1.2-0.9-2-0.9c-0.4,0-0.8,0.1-1.2,0.2
+				c-0.4,0.1-0.7,0.3-1,0.5s-0.5,0.5-0.7,0.8c-0.2,0.3-0.3,0.7-0.3,1.2c0,0.9,0.3,1.6,0.8,2.2C418.4,107.5,419.1,107.8,420.1,107.8
+				L420.1,107.8L420.1,107.8L420.1,107.8z M430,96.9l5.2-0.1v2.5c0.6-0.7,1.4-1.4,2.3-1.9s1.9-0.8,2.9-0.8c0.8,0,1.4,0.2,2.1,0.5
+				c0.6,0.4,1.2,0.8,1.7,1.4c0.5,0.6,0.8,1.2,1.1,1.9c0.3,0.7,0.4,1.4,0.4,2.1l0,10.3h-5.4l0.2-8.3c0-0.7-0.2-1.3-0.6-1.8
+				c-0.4-0.5-0.9-0.7-1.6-0.7c-0.3,0-0.7,0.1-1,0.2c-0.3,0.1-0.6,0.3-0.9,0.5c-0.3,0.2-0.5,0.4-0.7,0.7s-0.3,0.5-0.3,0.8
+				c0,1.4,0,2.9-0.1,4.4c0,1.5,0,3,0,4.4H430V96.9L430,96.9L430,96.9z M447.4,96.6h2.5l0.1-3.5l4.8-0.6l0.2,3.9l3.3,0l0.7,4.4h-4
+				l0,4.8c0,0.3,0,0.6,0.1,0.9s0.1,0.6,0.3,0.8c0.1,0.3,0.3,0.5,0.5,0.6c0.2,0.2,0.5,0.2,0.8,0.2c0.5,0,0.8,0,1.1-0.1
+				c0.3-0.1,0.6-0.2,0.8-0.3s0.5-0.3,0.7-0.5s0.4-0.4,0.6-0.7l1.3,4.4c-0.4,0.4-0.7,0.8-1.2,1c-0.4,0.3-0.9,0.5-1.3,0.6
+				s-0.9,0.2-1.5,0.3c-0.5,0.1-1,0.1-1.6,0.1c-0.7,0-1.4,0-2.1-0.2c-0.7-0.1-1.3-0.4-1.9-0.8s-1-0.9-1.4-1.5
+				c-0.4-0.6-0.6-1.4-0.7-2.4c-0.1-1.3-0.1-2.5-0.1-3.7c0-1.2,0-2.5-0.1-3.7l-1.9-0.1L447.4,96.6L447.4,96.6L447.4,96.6z
+				 M476.8,107.6c-0.2,0.8-0.5,1.6-1,2.3c-0.5,0.7-1.1,1.3-1.8,1.7c-0.7,0.5-1.5,0.8-2.3,1.1c-0.8,0.3-1.7,0.4-2.5,0.4
+				c-1.1,0-2.2-0.2-3.3-0.6c-1-0.4-2-1-2.8-1.8c-0.8-0.8-1.5-1.7-1.9-2.7c-0.5-1-0.7-2.1-0.7-3.3c0-1.1,0.2-2.1,0.7-3.1
+				c0.4-1,1-1.8,1.8-2.6c0.7-0.8,1.6-1.4,2.6-1.8c1-0.5,2-0.7,3.1-0.8c1.2,0,2.3,0.1,3.3,0.4c1,0.3,1.9,0.8,2.7,1.5
+				c0.8,0.7,1.3,1.6,1.8,2.7c0.4,1.1,0.7,2.4,0.7,4l-11,0.6c0.3,0.9,0.8,1.5,1.3,1.9c0.6,0.4,1.2,0.6,1.8,0.6c0.6,0,1.2-0.1,1.8-0.4
+				s1-0.7,1.3-1.3L476.8,107.6L476.8,107.6L476.8,107.6z M471,102.4c-0.1-0.5-0.3-0.8-0.6-1.1c-0.3-0.3-0.6-0.5-1-0.6
+				c-0.4-0.1-0.8-0.2-1.2-0.2c-0.4,0-0.8,0.1-1.2,0.3c-0.3,0.2-0.6,0.4-0.8,0.7c-0.2,0.3-0.3,0.6-0.3,1.1L471,102.4L471,102.4
+				L471,102.4z M478.2,96.9l5.2-0.1v2.5c0.6-0.7,1.4-1.4,2.3-1.9s1.9-0.8,2.9-0.8c0.8,0,1.4,0.2,2.1,0.5c0.6,0.4,1.2,0.8,1.7,1.4
+				c0.5,0.6,0.8,1.2,1.1,1.9c0.3,0.7,0.4,1.4,0.4,2.1l0,10.3h-5.4l0.2-8.3c0-0.7-0.2-1.3-0.6-1.8c-0.4-0.5-0.9-0.7-1.6-0.7
+				c-0.3,0-0.7,0.1-1,0.2c-0.3,0.1-0.6,0.3-0.9,0.5c-0.3,0.2-0.5,0.4-0.7,0.7c-0.2,0.3-0.3,0.5-0.3,0.8c0,1.4,0,2.9-0.1,4.4
+				c0,1.5,0,3,0,4.4h-5.3V96.9L478.2,96.9L478.2,96.9z M495.6,96.6h2.5l0.1-3.5l4.8-0.6l0.2,3.9l3.3,0l0.7,4.4h-4l0,4.8
+				c0,0.3,0,0.6,0.1,0.9s0.1,0.6,0.3,0.8s0.3,0.5,0.5,0.6c0.2,0.2,0.5,0.2,0.8,0.2c0.5,0,0.8,0,1.1-0.1s0.6-0.2,0.8-0.3
+				s0.5-0.3,0.7-0.5c0.2-0.2,0.4-0.4,0.6-0.7l1.3,4.4c-0.4,0.4-0.7,0.8-1.2,1c-0.4,0.3-0.9,0.5-1.3,0.6c-0.5,0.1-0.9,0.2-1.5,0.3
+				c-0.5,0.1-1,0.1-1.6,0.1c-0.7,0-1.4,0-2.1-0.2c-0.7-0.1-1.3-0.4-1.9-0.8s-1-0.9-1.4-1.5c-0.4-0.6-0.6-1.4-0.7-2.4
+				c-0.1-1.3-0.1-2.5-0.1-3.7c0-1.2,0-2.5-0.1-3.7l-1.9-0.1L495.6,96.6L495.6,96.6L495.6,96.6z"/>
+		</g>
+		<g id="iPhone-6_x2B__1_" transform="translate(377.172401, 0.814408)">
+			
+				<linearGradient id="Mute_3_" gradientUnits="userSpaceOnUse" x1="114.9013" y1="401.3849" x2="114.9013" y2="400.3849" gradientTransform="matrix(7.0234 0 0 -28.874 -497.8034 11501.877)">
+				<stop  offset="0" style="stop-color:#EEEEEE"/>
+				<stop  offset="1" style="stop-color:#DDDDDD"/>
+			</linearGradient>
+			<path id="Mute_1_" sketch:type="MSShapeGroup" class="st18" d="M308.7-87.7h1c1.7,0,3,1.3,3,3v22.9c0,1.7-1.3,3-3,3h-1
+				c-1.7,0-3-1.3-3-3v-22.9C305.7-86.4,307-87.7,308.7-87.7z"/>
+			
+				<linearGradient id="Volume-Down_3_" gradientUnits="userSpaceOnUse" x1="114.9013" y1="398.7696" x2="114.9013" y2="397.7696" gradientTransform="matrix(7.0234 0 0 -49.9441 -497.0231 19951.0293)">
+				<stop  offset="0" style="stop-color:#EEEEEE"/>
+				<stop  offset="1" style="stop-color:#DDDDDD"/>
+			</linearGradient>
+			<path id="Volume-Down_1_" sketch:type="MSShapeGroup" class="st19" d="M309.5,34.8h1c1.7,0,3,1.3,3,3v43.9c0,1.7-1.3,3-3,3h-1
+				c-1.7,0-3-1.3-3-3V37.8C306.5,36.2,307.8,34.8,309.5,34.8z"/>
+			
+				<linearGradient id="Volume-Up_3_" gradientUnits="userSpaceOnUse" x1="114.9013" y1="398.7696" x2="114.9013" y2="397.7696" gradientTransform="matrix(7.0234 0 0 -49.9441 -497.0231 19889.3809)">
+				<stop  offset="0" style="stop-color:#EEEEEE"/>
+				<stop  offset="1" style="stop-color:#DDDDDD"/>
+			</linearGradient>
+			<path id="Volume-Up_1_" sketch:type="MSShapeGroup" class="st20" d="M309.5-26.8h1c1.7,0,3,1.3,3,3v43.9c0,1.7-1.3,3-3,3h-1
+				c-1.7,0-3-1.3-3-3v-43.9C306.5-25.5,307.8-26.8,309.5-26.8z"/>
+			
+				<linearGradient id="Power_3_" gradientUnits="userSpaceOnUse" x1="114.9013" y1="398.7696" x2="114.9013" y2="397.7696" gradientTransform="matrix(7.0234 0 0 -49.9441 -135.7084 19888.5996)">
+				<stop  offset="0" style="stop-color:#EEEEEE"/>
+				<stop  offset="1" style="stop-color:#DDDDDD"/>
+			</linearGradient>
+			<path id="Power_1_" sketch:type="MSShapeGroup" class="st21" d="M670.8-27.6h1c1.7,0,3,1.3,3,3v43.9c0,1.7-1.3,3-3,3h-1
+				c-1.7,0-3-1.3-3-3v-43.9C667.8-26.3,669.1-27.6,670.8-27.6z"/>
+			
+				<linearGradient id="Frame_3_" gradientUnits="userSpaceOnUse" x1="157.4889" y1="395.4235" x2="157.4889" y2="394.4235" gradientTransform="matrix(363.6558 0 0 -752.2837 -56781.125 297291.6875)">
+				<stop  offset="0" style="stop-color:#FFFFFF"/>
+				<stop  offset="0.6598" style="stop-color:#EEEEEE"/>
+				<stop  offset="1" style="stop-color:#DDDDDD"/>
+			</linearGradient>
+			<path id="Frame_1_" sketch:type="MSShapeGroup" class="st22" d="M308.8,86.4c0-1.1,1.6-2.1,1.6-3.2V-25.2c0-1.1-1.6-2.2-1.6-3.3
+				V-115c0-35.3,28.6-64,64-64h235.7c35.3,0,64,28.6,64,64v86.7c0,1-1.6,2-1.6,3v45.3c0,1,1.6,2,1.6,3v486.2c0,35.3-28.6,64-64,64
+				H372.8c-35.3,0-64-28.7-64-64V86.4L308.8,86.4L308.8,86.4z"/>
+			<rect id="Band-insulator-1_1_" x="308.8" y="-120.5" sketch:type="MSShapeGroup" class="st5" width="17.9" height="12.5">
+			</rect>
+			<rect id="Band-insulator-2_1_" x="654.5" y="-120.5" sketch:type="MSShapeGroup" class="st5" width="17.9" height="12.5">
+			</rect>
+			<rect id="Band-insulator-3_1_" x="308.8" y="500.7" sketch:type="MSShapeGroup" class="st6" width="17.9" height="12.5">
+			</rect>
+			<rect id="Band-insulator-4_1_" x="654.5" y="500.7" sketch:type="MSShapeGroup" class="st6" width="17.9" height="12.5">
+			</rect>
+			<path id="Face_1_" sketch:type="MSShapeGroup" class="st7" d="M313.5-114.3c0-33.1,26.9-60,60-60h234.3c33.1,0,60,26.9,60,60
+				v622.9c0,33.1-26.9,60-60,60H373.5c-33.1,0-60-26.9-60-60V-114.3L313.5-114.3L313.5-114.3z"/>
+			<path id="Screen-surround_1_" sketch:type="MSShapeGroup" d="M330-92.4h321.3c2.2,0,4,1.8,4,4v572.6c0,2.2-1.8,4-4,4H330
+				c-2.2,0-4-1.8-4-4V-88.4C326-90.6,327.8-92.4,330-92.4z"/>
+			<rect id="Screen---414-x-736" x="329.1" y="-89.3" sketch:type="MSShapeGroup" class="st8" width="323.1" height="574.4">
+			</rect>
+			
+				<linearGradient id="Camera-surround_3_" gradientUnits="userSpaceOnUse" x1="136.6145" y1="407.9287" x2="136.6145" y2="406.9287" gradientTransform="matrix(14.0468 0 0 -14.0468 -1480.6484 5591.6689)">
+				<stop  offset="0" style="stop-color:#D1D1D1"/>
+				<stop  offset="1" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<ellipse id="Camera-surround_1_" sketch:type="MSShapeGroup" class="st23" cx="438.3" cy="-131.4" rx="7" ry="7">
+			</ellipse>
+			<ellipse id="Camera_1_" sketch:type="MSShapeGroup" class="st10" cx="438.3" cy="-131.4" rx="3.9" ry="3.9">
+			</ellipse>
+			
+				<linearGradient id="Speaker-surround_1_" gradientUnits="userSpaceOnUse" x1="153.046" y1="414.3003" x2="153.046" y2="413.3003" gradientTransform="matrix(57.7479 0 0 -9.3645 -8347.458 3743.6472)">
+				<stop  offset="0" style="stop-color:#CECECE"/>
+				<stop  offset="1" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<path id="Speaker-surround" sketch:type="MSShapeGroup" class="st24" d="M467.8-136.1h45.7c3.3,0,6,2.1,6,4.7l0,0
+				c0,2.6-2.7,4.7-6,4.7h-45.7c-3.3,0-6-2.1-6-4.7l0,0C461.8-134,464.4-136.1,467.8-136.1z"/>
+			<path id="Speaker_2_" sketch:type="MSShapeGroup" class="st10" d="M467.1-133.7h47.1c1.7,0,3,1,3,2.3l0,0c0,1.3-1.3,2.3-3,2.3
+				h-47.1c-1.7,0-3-1-3-2.3l0,0C464.1-132.7,465.4-133.7,467.1-133.7z"/>
+			
+				<linearGradient id="Sensor-surround_3_" gradientUnits="userSpaceOnUse" x1="125.7579" y1="414.3003" x2="125.7579" y2="413.3003" gradientTransform="matrix(9.3645 0 0 -9.3645 -687.0316 3721.0161)">
+				<stop  offset="0" style="stop-color:#CECECE"/>
+				<stop  offset="1" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<path id="Sensor-surround_1_" sketch:type="MSShapeGroup" class="st25" d="M490.6-158.7L490.6-158.7c2.6,0,4.7,2.1,4.7,4.7l0,0
+				c0,2.6-2.1,4.7-4.7,4.7l0,0c-2.6,0-4.7-2.1-4.7-4.7l0,0C485.9-156.6,488-158.7,490.6-158.7z"/>
+			<ellipse id="Sensor_1_" sketch:type="MSShapeGroup" class="st10" cx="490.6" cy="-154" rx="3.1" ry="3.1">
+			</ellipse>
+			
+				<linearGradient id="Home-button_4_" gradientUnits="userSpaceOnUse" x1="152.58" y1="398.5588" x2="152.58" y2="397.5588" gradientTransform="matrix(53.0657 0 0 -53.0657 -7606.1265 21650.4902)">
+				<stop  offset="0" style="stop-color:#E2E2E2"/>
+				<stop  offset="0.498" style="stop-color:#F3F3F3"/>
+				<stop  offset="1" style="stop-color:#F9F9F9"/>
+			</linearGradient>
+			
+				<linearGradient id="Home-button_5_" gradientUnits="userSpaceOnUse" x1="152.58" y1="398.5588" x2="152.58" y2="397.5588" gradientTransform="matrix(53.0657 0 0 -53.0657 -7606.1265 21650.4902)">
+				<stop  offset="0" style="stop-color:#DCDCDC"/>
+				<stop  offset="1" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<circle id="Home-button_1_" sketch:type="MSShapeGroup" class="st26" cx="490.6" cy="527.2" r="26.5">
+			</circle>
+			
+			<g id="Group_1_" transform="translate(105.000000, 206.000000)" sketch:type="MSTextLayer">
+				<g id="iPhone-6_x2B_" transform="translate(11.000000, 0.000000)">
+					<text transform="matrix(1 0 0 1 305.3639 -163.4664)" class="st14 st15">iPhone 6+</text>
+				</g>
+				<g id="_x34_14-x-736px" transform="translate(0.000000, 38.000000)">
+					<text transform="matrix(1 0 0 1 305.5899 -163.4664)" class="st16 st15">414 x 736px</text>
+				</g>
+			</g>
+		</g>
+		<g id="Group_2_" transform="translate(377.172401, 90.770420)">
+			
+				<image style="overflow:visible;enable-background:new    ;" width="1242" height="2208" id="Simulator-Screen-Shot-Jan-23_x2C_-2016_x2C_-10.36.13-PM" xlink:href="90E82BB3C7709FF3.png"  sketch:type="MSBitmapLayer" transform="matrix(0.2601 0 0 0.2601 329.1911 -178.6417)">
+			</image>
+			<rect id="Rectangle-40" x="328.9" y="-178.6" sketch:type="MSShapeGroup" class="st27" width="324.1" height="541">
+			</rect>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="763" height="760" id="Simulator-Screen-Shot-Jan-23_x2C_-2016_x2C_-10.26.18-PM" xlink:href="90E82BB3C7709FFD.png"  sketch:type="MSBitmapLayer" transform="matrix(0.2601 0 0 0.2601 391.4909 9.6859)">
+			</image>
+			<path id="this-is-content_1_" sketch:type="MSShapeGroup" class="st8" d="M452.7,66.9c0.1-0.2,0.2-0.5,0.2-0.9
+				c0.1-1.6-1.5-2.8-2.8-2.8c-0.4,0-0.8,0.2-1,0.5c-2.2,1.2-2,0.2-3.2,2.1c-2.3,2.5-3.8,5.9-5,9l-0.5,1.2c-0.5,0-0.6,0-0.7,0.1
+				l-0.6,0.2c-2.6,0.6-1.2,0.5-4.5,1.4h0c-1.5,0.6-2,1.6-2.1,2.4c0,0.9,0.5,1.6,1.3,1.7c1.4-0.1,0.6-0.5,2.9-0.5
+				c-2.4,5.3-5,11.6-6,15.3c-0.1,0.2-0.1,0.4-0.2,0.6c0,1,1.7,1.6,3.1,1.8c0.8-0.4,1.2-0.2,1.8-1c2.6-3.4,7.5-14.1,9.8-18l0.3-0.3
+				c1.4,0,2.7-0.4,4.2-0.8l1-0.2c1.3-0.1,2.2-1.5,2.3-2.5c0.1-1.6-2-1.2-2.9-1.4c-1.1,0.1-1.5,0.2-3.1,0.5l0.7-0.7
+				c0.2-0.2,0.4-0.4,0.6-0.7l2.8-4.1C451.6,68.8,451.8,68.5,452.7,66.9L452.7,66.9L452.7,66.9L452.7,66.9z M461.3,79.8L461.3,79.8
+				c0.4-0.9,3.1-6.2,3.7-7.1c0.8-1.2,3.1-5,4.2-6.9c0-1.1-1.4-1.8-3-1.8c-2.2,0-4.7,1-4.8,3c0,0.2,0,0.4,0,0.6l-2.2,2.7
+				c-3.4,4-9.5,14.6-12.8,23c-0.2,0.4-0.2,0.7-0.3,1c-0.1,1.8,1.6,3.2,3.6,3.2c0.8,0,1.8-0.2,3.4-1.1l0.4-0.1h0
+				c1.4-0.9,1.2,0.6,2.3-2.2c2.1-3.4,4-4.6,6.7-5.9c-0.6,1.4-0.8,2.5-0.8,3.5c0,0.8,0.1,1.6,0,2.7l0.2,0.5c0.4,1,2.1,2.5,4,2.5
+				c1.1,0,2.1-0.5,2.4-2.1c-0.1-0.6-0.1-1.2-0.1-1.7c0.1-1.5,0.5-3.4,1.4-5.5c0.6-1.4,1.2-2.9,1.3-4.1c0.1-2.1-2.2-3.8-4-3.8
+				c-1.8,0-3.8,1.1-5.4,2.5h0l-0.7,0.8v0c-0.4,0.4-0.8,0.8-1.8,1.6c0.4-1.2,1.4-2.9,1.7-3.7L461.3,79.8L461.3,79.8L461.3,79.8z
+				 M478.4,78.8c-3.1,3.6-7.6,12.8-8.5,16.1c-0.4,0.8-0.5,1.4-0.6,2c-0.1,1.7,1.2,2.5,2.5,2.5c0.7,0,1.5-0.3,1.8-0.8
+				c1.2-1.5,2.6,1.2,4.7-4.4c1.3-4,5.2-11.5,7.1-15.2v0c0-0.2,0-0.3,0-0.4c0.1-1.2-1.2-1.8-2.8-1.8C481,76.8,479.1,77.5,478.4,78.8
+				L478.4,78.8L478.4,78.8L478.4,78.8z M489.9,69.4c0-0.6-0.2-1.8-2.3-1.8c-0.2,0-0.5,0-0.9,0.1c-2.5,0.7-3.7,2-3.8,3
+				c0,1,0.9,1.8,2.8,1.8C487.4,72.5,489.8,71.1,489.9,69.4L489.9,69.4L489.9,69.4L489.9,69.4z M496.6,96.6l0.6-0.4
+				c1.2-0.7,2.8-2,2.9-3c0.7-1.4,1-2.5,1.1-3.6c0.1-2.8-1.9-5-4.1-6.8c1.3-0.4-0.2-0.5,4.1-1.2c2.1-0.6,3.4-1.9,3.4-3.1
+				c0.1-1.1-0.2-2.6-2.9-2.6c-5.1,0-12.1,3-12.6,6.5c-0.4,0.6-0.5,1.3-0.6,2.1c-0.1,2.5,1.4,3.4,3.2,4.3c0.7,0.4,1.4,0.7,2,1.3
+				c-0.5,1.2-3.4,1.5-6.5,1.5h-1.3c-1,0-1,2-2.3,2c-0.2,0-0.4,0-0.5,0c-0.9,0-1.5,0.8-1.6,1.8c-0.1,2.4,3,3.9,6.4,3.9
+				C490.9,99.2,494.2,98.3,496.6,96.6L496.6,96.6L496.6,96.6L496.6,96.6z M528,78.8c-3.1,3.6-7.6,12.8-8.5,16.1
+				c-0.4,0.8-0.5,1.4-0.6,2c-0.1,1.7,1.2,2.5,2.5,2.5c0.7,0,1.5-0.3,1.8-0.8c1.2-1.5,2.6,1.2,4.7-4.4c1.3-4,5.2-11.5,7.1-15.2v0
+				c0-0.2,0-0.3,0-0.4c0.1-1.2-1.2-1.8-2.8-1.8C530.6,76.8,528.7,77.5,528,78.8L528,78.8L528,78.8L528,78.8z M539.5,69.4
+				c0-0.6-0.2-1.8-2.3-1.8c-0.2,0-0.5,0-0.9,0.1c-2.5,0.7-3.7,2-3.8,3c0,1,0.9,1.8,2.8,1.8C537.1,72.5,539.4,71.1,539.5,69.4
+				L539.5,69.4L539.5,69.4L539.5,69.4z M546.2,96.6l0.6-0.4c1.2-0.7,2.8-2,2.9-3c0.7-1.4,1-2.5,1.1-3.6c0.1-2.8-1.9-5-4.1-6.8
+				c1.3-0.4-0.2-0.5,4.1-1.2c2.1-0.6,3.4-1.9,3.4-3.1c0.1-1.1-0.2-2.6-2.9-2.6c-5.1,0-12.1,3-12.6,6.5c-0.4,0.6-0.5,1.3-0.6,2.1
+				c-0.1,2.5,1.4,3.4,3.2,4.3c0.7,0.4,1.4,0.7,2,1.3c-0.5,1.2-3.4,1.5-6.5,1.5h-1.3c-1,0-1,2-2.3,2c-0.2,0-0.4,0-0.5,0
+				c-0.9,0-1.5,0.8-1.6,1.8c-0.1,2.4,3,3.9,6.4,3.9C540.5,99.2,543.8,98.3,546.2,96.6L546.2,96.6L546.2,96.6L546.2,96.6z
+				 M438.4,130.5c-0.7-0.1-1.3-0.1-2-0.1c-8.7,0-16.4,8.4-16.8,15.5c-0.2,3.7,2,5.8,4.8,5.8c3.2,0,7.3-1.3,9.5-4
+				c0.4-0.4,0.6-0.7,0.6-1.1c0-0.7-0.7-1.3-2.2-1.3c-0.3,0-0.6,0-0.9,0c-1.9,0-2.9-1.2-2.8-2.3c0-0.1,0-0.3,0.1-0.4
+				c0.7-1.5,2.3-4.7,6.3-5.2c1.1-0.2,2.2-0.3,2.9-1.7c1.2-0.1,2.6-1.8,2.7-3.3C440.4,131.5,439.9,130.7,438.4,130.5L438.4,130.5
+				L438.4,130.5L438.4,130.5z M445.1,133c-3.4,2-7.3,8.9-7.5,13.6c-0.3,5.4,4.4,5.3,7.8,5.3c1.8-0.1,4.2-0.5,6.3-2
+				c4.4-3.5,7.3-9.4,7.5-13.5c0.2-3.3-1.4-5.7-5.7-5.7c-0.6,0-1.5,0.2-2.2,0.2c-1.1,0-2.5,0.2-3.7,2c-0.5,0-0.8-0.1-1.3-0.1
+				C446,132.7,445.6,132.8,445.1,133L445.1,133L445.1,133L445.1,133z M450.6,140.9c-0.2,2.7-1.8,6.8-5.4,6.8c-0.9,0-1.5,0.2-1.5-0.8
+				c0.2-2.6,3.9-5,4.8-5.9h0.2c0.5,0,1.1-0.1,1.6-0.3L450.6,140.9L450.6,140.9L450.6,140.9z M464.6,134.5c-0.8,1-7.9,13.1-8,16.2
+				c-0.1,1.4,2.7,1.6,3.6,1.6c1.9,0,3.8-0.6,4.2-1.5c0.5-1.3,0.7-0.1,1.9-1.7c3.6-4.7,7.6-10.7,9.8-10.7c0.4,0,0.6,0.2,0.6,0.8
+				c-0.1,1.1-1.2,2.9-2.8,6l-2.3,4.2c-0.1,0.2-0.2,0.5-0.2,0.6c0,0.7,0.8,1.1,1.9,1.1c4.1,0,6.9-4.4,8.1-6.2
+				c0.4-0.6,0.8-1.3,1.4-2.2v0c1.6-2.8,2.7-5.6,2.8-7.8c0.2-2.5-1-4-4.1-4c-3.5,0-8.8,2-10.9,3.9c0-0.2,0.1-0.4,0.1-0.7
+				c0-0.7-0.1-1.7-1.2-1.7c-0.5,0-1.2,0.1-2.3,0.5c-0.2-0.1-0.3-0.2-0.4-0.2C466.2,132.7,465.8,133.1,464.6,134.5L464.6,134.5
+				L464.6,134.5L464.6,134.5z M506.7,120.9c0.1-0.2,0.2-0.5,0.2-0.9c0.1-1.6-1.5-2.8-2.8-2.8c-0.4,0-0.8,0.2-1,0.5
+				c-2.2,1.2-2,0.2-3.2,2.1c-2.3,2.5-3.8,5.9-5,9l-0.5,1.2c-0.5,0-0.6,0-0.7,0.1l-0.6,0.2c-2.6,0.6-1.2,0.5-4.5,1.4h0
+				c-1.5,0.6-2,1.6-2.1,2.4c0,0.9,0.5,1.6,1.3,1.7c1.4-0.1,0.6-0.5,2.9-0.5c-2.4,5.3-5,11.6-6,15.3c-0.1,0.2-0.1,0.4-0.2,0.6
+				c0,1,1.7,1.6,3.1,1.8c0.8-0.4,1.2-0.2,1.8-1c2.6-3.4,7.5-14.1,9.8-18l0.3-0.3c1.4,0,2.7-0.4,4.2-0.8l1-0.2
+				c1.3-0.1,2.2-1.5,2.3-2.5c0.1-1.6-2-1.2-2.9-1.4c-1.1,0.1-1.5,0.2-3.1,0.5l0.7-0.7c0.2-0.2,0.4-0.4,0.6-0.7l2.8-4.1
+				C505.6,122.8,505.8,122.5,506.7,120.9L506.7,120.9L506.7,120.9L506.7,120.9z M514.6,144c3.7-1.7,5-2.8,6.6-7.1v0
+				c0.3-1.1,0.5-1.9,0.5-2.6c0.2-3-1.9-3.8-4.1-3.8c-5.5,0-8.9,3-12.1,6.5c-2.3,2.6-4.4,6.5-4.6,9.7c-0.2,3.1,1.4,5,6.5,5
+				c4.2,0,9.8-1.3,9.9-3.4c0.1-1.2-0.6-1.2-0.5-1.2c-0.3,0-0.6,0-0.9-1c-0.4-0.4-1-0.6-1.5-0.6c-1.5,0-3.6,1.2-5,1.2
+				c-0.5,0-1.4-0.4-1.5-1.4C510.1,145.2,514,144.3,514.6,144L514.6,144L514.6,144L514.6,144z M514.4,137.7c0,1.2-2.8,4.1-4.9,4.1
+				h-0.2c0.9-2.1,2.5-4.4,4.4-4.4C513.9,137.4,514.4,137.5,514.4,137.7L514.4,137.7L514.4,137.7L514.4,137.7z M527,134.5
+				c-0.8,1-7.9,13.1-8,16.2c-0.1,1.4,2.7,1.6,3.6,1.6c1.9,0,3.8-0.6,4.2-1.5c0.5-1.3,0.7-0.1,1.9-1.7c3.6-4.7,7.6-10.7,9.8-10.7
+				c0.4,0,0.6,0.2,0.6,0.8c-0.1,1.1-1.2,2.9-2.8,6l-2.3,4.2c-0.1,0.2-0.2,0.5-0.2,0.6c0,0.7,0.8,1.1,1.9,1.1c4.1,0,6.9-4.4,8.1-6.2
+				c0.4-0.6,0.8-1.3,1.4-2.2v0c1.6-2.8,2.7-5.6,2.8-7.8c0.2-2.5-1-4-4.1-4c-3.5,0-8.8,2-10.9,3.9c0-0.2,0.1-0.4,0.1-0.7
+				c0-0.7-0.1-1.7-1.2-1.7c-0.5,0-1.2,0.1-2.3,0.5c-0.2-0.1-0.3-0.2-0.4-0.2C528.6,132.7,528.2,133.1,527,134.5L527,134.5L527,134.5
+				L527,134.5z M569.2,120.9c0.1-0.2,0.2-0.5,0.2-0.9c0.1-1.6-1.5-2.8-2.8-2.8c-0.4,0-0.8,0.2-1,0.5c-2.2,1.2-2,0.2-3.2,2.1
+				c-2.3,2.5-3.8,5.9-5,9l-0.5,1.2c-0.5,0-0.6,0-0.7,0.1l-0.6,0.2c-2.6,0.6-1.2,0.5-4.5,1.4h0c-1.5,0.6-2,1.6-2.1,2.4
+				c0,0.9,0.5,1.6,1.3,1.7c1.4-0.1,0.6-0.5,2.9-0.5c-2.4,5.3-5,11.6-6,15.3c-0.1,0.2-0.1,0.4-0.2,0.6c0,1,1.7,1.6,3.1,1.8
+				c0.8-0.4,1.2-0.2,1.8-1c2.6-3.4,7.5-14.1,9.8-18l0.3-0.3c1.4,0,2.7-0.4,4.2-0.8l1-0.2c1.3-0.1,2.2-1.5,2.3-2.5
+				c0.1-1.6-2-1.2-2.9-1.4c-1.1,0.1-1.5,0.2-3.1,0.5l0.7-0.7c0.2-0.2,0.4-0.4,0.6-0.7l2.8-4.1C568.1,122.8,568.3,122.5,569.2,120.9
+				L569.2,120.9L569.2,120.9L569.2,120.9z"/>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="615" height="746" id="Simulator-Screen-Shot-Jan-23_x2C_-2016_x2C_-10.26.42-PM" xlink:href="90E82BB3C7709FFF.png"  sketch:type="MSBitmapLayer" transform="matrix(0.1933 0 0 0.1933 530.5116 -89.0712)" class="blink">
+			</image>
+				
+			<g width="660" height="992" transform="matrix(0.2601 0 0 0.2601 305.6516 62.2717)">
+					<image style="overflow:visible;enable-background:new    ;" width="660" height="992" id="Simulator-Screen-Shot-Jan-23_x2C_-2016_x2C_-10.26.30-PM" xlink:href="90E82BB3C7709FF0.png"  sketch:type="MSBitmapLayer" class="shake">
+				</image>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
