@@ -69,6 +69,10 @@ a {
 	}
 }
 
+h1 {
+	font-weight: normal;
+}
+
 #box h1, #box p {
 	margin: 0;
 }
