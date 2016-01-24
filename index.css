@@ -43,7 +43,7 @@ a {
 	left: 50%;
 	margin-left: -175px;
 	width: 350px;
-	margin-top: -56px;
+	margin-top: -72px;
 	top: 16%;
 	background-image: url(assets/WeirdRect.svg);
 	color: #333333;
@@ -56,21 +56,30 @@ a {
 	box-sizing: border-box;
 }
 
+h1 {
+	font-weight: normal;
+}
+#box {
+	font-size: 14px;
+}
+#box h1 {
+	font-size: 3em;
+}
+
 @media screen and (max-width: 600px) {
 	#box {
 		font-size: 0.8em;
 		width: 280px;
 		margin-left: -140px;
-		margin-top: -50px;
+		margin-top: -58px;
 		top: 27%;
 	}
 	#bg {
 		top: -70%;
 	}
-}
-
-h1 {
-	font-weight: normal;
+	#box h1 {
+		font-size: 2em;
+	}
 }
 
 #box h1, #box p {
