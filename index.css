@@ -1,0 +1,144 @@
+html, body {
+	margin: 0;
+	font-family: 'Arial Rounded MT Bold', 'Helvetica Rounded', Arial, sans-serif;
+	line-height: 1.5;
+	height: 100%;
+	background-color: #1a1a1a;
+	color: white;
+}
+
+a {
+	color: inherit;
+}
+
+#splash {
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
+
+#bg-container {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+
+#bg {
+	position: absolute;
+	left: 0;
+	width: 100%;
+	top: -81.34%;
+	height: 194.62890625%;
+	background-image: url(assets/Swirl.svg);
+	background-size: cover;
+	background-position: center;
+	overflow: hidden;
+}
+
+#box {
+	position: absolute;
+	left: 50%;
+	margin-left: -175px;
+	width: 350px;
+	margin-top: -56px;
+	top: 16%;
+	background-image: url(assets/WeirdRect.svg);
+	color: #333333;
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	text-align: center;
+	padding: 25px;
+	padding-top: 15px;
+	box-sizing: border-box;
+}
+
+@media screen and (max-width: 600px) {
+	#box {
+		font-size: 0.8em;
+		width: 280px;
+		margin-left: -140px;
+		margin-top: -50px;
+		top: 27%;
+	}
+	#bg {
+		top: -70%;
+	}
+}
+
+#box h1, #box p {
+	margin: 0;
+}
+#phones {
+	position: absolute;
+	bottom: -40px;
+	height: 70%;
+	left: 0;
+	width: 100%;
+	background-image: url(assets/Phones.svg);
+	background-position: center bottom;
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+.reading-width {
+	width: 90%;
+	max-width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+}
+@media screen and (min-width: 600px) {
+	#screenshots {
+		text-align: center;
+		display: flex;
+		justify-content: space-between;
+		width: 100%;
+		padding-top: 60px;
+		padding-bottom: 20px;
+	}
+	#screenshots img {
+		width: 16%;
+		border-radius: 5px;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	#screenshots-container {
+		padding-top: 50px;
+		overflow-y: auto;
+		-webkit-overflow-scrolling: touch;
+	}
+	#screenshots {
+		width: 800px
+	}
+	#screenshots img {
+		width: 16%;
+		display: inline-block;
+	}
+}
+
+#download {
+	display: block;
+	text-decoration: none;
+	color: white;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	padding: 15px;
+	position: fixed;
+	z-index:1000;
+	text-align: center;
+}
+#download:before {
+	transform: translateY(50%) scale(2) rotate(-2deg);
+	content: " ";
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	left: 0;
+	top: 0;
+	background-color: #222;
+	z-index: -1;
+}
