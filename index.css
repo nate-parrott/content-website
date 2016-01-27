@@ -87,11 +87,11 @@ h1 {
 }
 #phones {
 	position: absolute;
-	bottom: -40px;
+	 bottom: -20px;
 	height: 70%;
 	left: 0;
 	width: 100%;
-	background-image: url(assets/Phones.png);
+	background-image: url(/assets/Animation/Phones.png);
 	background-position: center bottom;
 	background-size: contain;
 	background-repeat: no-repeat;
@@ -108,7 +108,7 @@ h1 {
 		display: flex;
 		justify-content: space-between;
 		width: 100%;
-		padding-top: 60px;
+		padding-top: 40px;
 		padding-bottom: 20px;
 	}
 	#screenshots img {
@@ -155,3 +155,38 @@ h1 {
 	background-color: #222;
 	z-index: -1;
 }
+
+.spin {
+	animation-duration: 1s;
+	animation-timing-function: linear;
+	animation-name: spin;
+	animation-iteration-count: infinite;
+}
+@-moz-keyframes spin {
+    from { -moz-transform: rotate(0deg); }
+    to { -moz-transform: rotate(360deg); }
+}
+@-webkit-keyframes spin {
+    from { -webkit-transform: rotate(0deg); }
+    to { -webkit-transform: rotate(360deg); }
+}
+@keyframes spin {
+    from {transform:rotate(0deg);}
+    to {transform:rotate(360deg);}
+}
+
+@keyframes blink {
+  50% {
+    opacity: 0.0;
+  }
+}
+@-webkit-keyframes blink {
+  50% {
+    opacity: 0.0;
+  }
+}
+.blink {
+  animation: blink 1s step-start 0s infinite;
+  -webkit-animation: blink 1s step-start 0s infinite;
+}
+
